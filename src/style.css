@@ -1,0 +1,15 @@
+body{
+    background-color: blueviolet;
+    padding: 4px;
+    margin: 5px;
+}
+
+button{
+    align-items: flex-start;
+    padding: 2px;
+    margin: 3px;
+    border-radius: 4px;
+    width: 50px;
+    height: 40px;
+    color: #000;
+}
